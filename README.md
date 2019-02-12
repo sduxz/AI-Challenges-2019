@@ -1,6 +1,6 @@
 ## This is a repository listing AI challenges in 2019 which mainly focus on NLP, CV and multi-modality tasks.
 
-| Challenge | Type | Workshop of | Prize | Organizer | Rigister Due | Final Due
+| Challenge | Type | Workshop of | Prize | Organizer | Register Due | Final Due
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | [Alibaba Adverserial AI Challenge](https://tianchi.aliyun.com/competition/entrance/231701/introduction) | GAN | IJCAI-19 | $39k | Alibaba | 4/20 | 5/31
 | [Visual Question Answering Challenge 2019](https://visualqa.org/workshop.html) | CV&NLP | CVPR-19 | GCP $10k | Georgia Tech | 5/10 | 5/10
