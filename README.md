@@ -8,5 +8,5 @@
 | [DCIC 2019 - Recognizing Chinese Calligraphy in Multiple Scenarios](https://www.datafountain.cn/competitions/334/details) | CV | - | ￥200k | Huawei | 3/22 | 4/mid
 | [DCIC 2019 - Live Cancer AI Diagnosis](https://www.datafountain.cn/competitions/335/details) | CV | - | ￥200k | 中电数据 | 3/22 | 4/mid
 | [Short Video Understanding Challenge](https://www.biendata.com/competition/icmechallenge2019/) | CV&NLP | ICME-19 | $20k | Bytedance | 4/8 | 4/8
-| [Grand Challenge of 106-p Facial Landmark Localization](https://facial-landmarks-localization-challenge.github.io/#comp-date) | CV | ICME-19 | ￥30k | Bytedance | 4/1 | 4/8
+| [Grand Challenge of 106-p Facial Landmark Localization](https://facial-landmarks-localization-challenge.github.io/#comp-date) | CV | ICME-19 | ￥30k | JD.com | 4/1 | 4/8
 | [Gendered Pronoun Resolution](https://www.kaggle.com/c/gendered-pronoun-resolution) | NLP | ACL-19 | $25k | Google | 4/15 | 4/22
